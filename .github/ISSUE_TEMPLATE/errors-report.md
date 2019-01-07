@@ -25,5 +25,8 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If possible, add screenshots to help explain your problem.
 
+**Current Version of PCBS Parts Ranking HTML**
+Please provide your current version of PCBS Part Ranking HTML.
+
 **Additional context**
 Add any other context about the problem here.
