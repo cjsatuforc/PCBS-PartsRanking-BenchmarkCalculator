@@ -7,6 +7,8 @@ assignees: AhRoon
 
 ---
 
+**WARNING:** Please note that this is not a place to report errors about Parts Ranking Spreadsheet Version! If you found any errors on Spreadsheet instead report on [here](https://steamcommunity.com/app/621060/discussions/0/1742230617612345158/). Any reports of PCBS Parts Ranking Spreadsheet reports will be rejected.
+
 **Describe the error**
 A clear and concise description of what the error is.
 
