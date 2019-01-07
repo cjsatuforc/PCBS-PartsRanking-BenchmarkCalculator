@@ -7,6 +7,8 @@ assignees: AhRoon
 
 ---
 
+**WARNING:** Please note that this is not a place to make suggestions about Parts Ranking Spreadsheet Version! If you want to make suggestion about Parts Ranking Spreadsheet, please make suggestion on [here](https://steamcommunity.com/app/621060/discussions/0/1742230617612345158/). Any suggestions of PCBS Parts Ranking Spreadsheet reports will be rejected.
+
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
