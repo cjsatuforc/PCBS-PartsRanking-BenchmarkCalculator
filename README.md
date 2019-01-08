@@ -1,5 +1,5 @@
 # PCBS-PartsRanking
-An Parts Ranking for PC Building Simulator.
+An Parts Ranking & Benchmark Score Calculator for PC Building Simulator.
 
 # How to download
 Click on Releases above and choose the version you want to download.
